@@ -6,13 +6,16 @@ module.exports = {
         repo: 'https://github.com/superbiger/blog',
         displayAllHeaders: true,
         nav: [
-            { text: 'LeetCode', link: '/leetcode/'},
-            { text: 'System', link: '/system/' },
-            { text: 'DevOps', link: '/devops/' },
-            { text: 'Product', link: '/product/' },
+            // { text: 'LeetCode', link: '/leetcode/'},
+            // { text: 'System', link: '/system/' },
+            // { text: 'DevOps', link: '/devops/' },
+            // { text: 'Product', link: '/product/' },
             { text: 'Blog', link: '/blog/' }
         ],
         sidebar: 'auto',
         lastUpdated: 'Last Updated'
+    },
+    markdown: {
+        lineNumbers: true
     }
 }
