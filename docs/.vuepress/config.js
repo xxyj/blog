@@ -1,6 +1,6 @@
 module.exports = {
     title: 'SuperBiger',
-    description: '碎碎念',
+    description: '碎碎念（叨逼叨~',
     base: '/blog/',
     themeConfig: {
         repo: 'https://github.com/superbiger/blog',
