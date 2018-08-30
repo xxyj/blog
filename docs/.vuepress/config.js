@@ -10,8 +10,7 @@ module.exports = {
             { text: 'System', link: '/system/' },
             { text: 'DevOps', link: '/devops/' },
             { text: 'Product', link: '/product/' },
-            { text: 'Blog', link: '/blog/' },
-            { text: 'About', link: '/about/' }
+            { text: 'Blog', link: '/blog/' }
         ],
         sidebar: 'auto',
         lastUpdated: 'Last Updated'
