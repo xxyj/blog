@@ -6,7 +6,6 @@ module.exports = {
         repo: 'https://github.com/superbiger/blog',
         displayAllHeaders: true,
         nav: [
-            { text: '首页', link: '/' },
             { text: 'LeetCode', link: '/leetcode/'},
             { text: 'System', link: '/system/' },
             { text: 'DevOps', link: '/devops/' },
