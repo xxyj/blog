@@ -1,6 +1,5 @@
 <template>
-  <div class="sb-tag"
-    :style="{ color: colorText, backgroundColor: color,borderStyle: borderStyle }">
+  <div class="sb-tag">
     <slot></slot>
   </div>
 </template>
