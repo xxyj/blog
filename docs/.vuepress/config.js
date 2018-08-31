@@ -15,6 +15,7 @@ module.exports = {
         sidebar: 'auto',
         lastUpdated: 'Last Updated'
     },
+    ga: 'UA-125028289-1',
     markdown: {
         lineNumbers: true
     }
