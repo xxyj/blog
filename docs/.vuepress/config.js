@@ -13,7 +13,7 @@ module.exports = {
             // { text: 'Product', link: '/product/' },
             // { text: 'Frontend', link: '/frontend/' },
             // { text: 'Design', link: '/design/' },
-            // { text: 'Paper', link: '/paper/'}
+            // { text: 'Paper', link: '/paper/' },
             { text: 'Blog', link: '/detail/' }
         ],
         sidebar: 'auto',
