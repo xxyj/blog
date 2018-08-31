@@ -11,7 +11,9 @@ module.exports = {
             // { text: 'System', link: '/system/' },
             // { text: 'DevOps', link: '/devops/' },
             // { text: 'Product', link: '/product/' },
+            // { text: 'Frontend', link: '/frontend/' },
             // { text: 'Design', link: '/design/' },
+            // { text: 'Paper', link: '/paper/'}
             { text: 'Blog', link: '/detail/' }
         ],
         sidebar: 'auto',
