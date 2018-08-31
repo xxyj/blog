@@ -2,7 +2,7 @@
 home: true
 heroImage: /headicon.jpeg
 actionText: 我的博客 →
-actionLink: /blog/
+actionLink: /detail/
 features:
 - title: 万物皆虚
   details: 万物皆为信息,数据。不应被世间事物所束缚，亦不应过于被旧有的思想所控制
