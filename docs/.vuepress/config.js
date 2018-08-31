@@ -3,7 +3,8 @@ module.exports = {
     description: '碎碎念（叨逼叨~',
     base: '/blog/',
     themeConfig: {
-        repo: 'https://github.com/superbiger/blog',
+        repo: 'https://github.com/superbiger/blog/issues',
+        repoLabel: 'Discuss',
         displayAllHeaders: true,
         nav: [
             // { text: 'LeetCode', link: '/leetcode/'},
