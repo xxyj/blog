@@ -19,7 +19,7 @@ export default {
     border: solid 1px black;
     color: black;
     font-weight: 400;
-    margin-left: 15px;
+    margin-right: 15px;
     
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
