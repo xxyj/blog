@@ -16,7 +16,6 @@ module.exports = {
                     { text: 'Preface', link: '/starter/preface/' },
                     { text: 'Language', link: '/starter/language/' },
                     { text: 'Algorithm', link: '/starter/algorithm/' },
-                    { text: 'Network', link: '/starter/network/' },
                     { text: 'OO', link: '/starter/oo/' },
                     { text: 'SQL', link: '/starter/sql/' },
                     { text: 'UML', link: '/starter/uml/' }
