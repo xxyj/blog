@@ -13,45 +13,45 @@ module.exports = {
             { 
                 text: 'Starter',
                 items: [
-                    { text: 'Preface', link: '' },
-                    { text: 'Language', link: '' },
-                    { text: 'Algorithm', link: '' },
-                    { text: 'Network', link: '' },
-                    { text: 'OO', link: '' },
-                    { text: 'SQL', link: '' },
-                    { text: 'UML', link: '' }
+                    { text: 'Preface', link: '/starter/preface/' },
+                    { text: 'Language', link: '/starter/language/' },
+                    { text: 'Algorithm', link: '/starter/algorithm/' },
+                    { text: 'Network', link: '/starter/network/' },
+                    { text: 'OO', link: '/starter/oo/' },
+                    { text: 'SQL', link: '/starter/sql/' },
+                    { text: 'UML', link: '/starter/uml/' }
                 ]
             },
             { 
                 text: 'DevOps',
                 items: [
-                    { text: 'Vim', link: '' },
-                    { text: 'Linux', link: '' },
-                    { text: 'Docker', link: '' },
-                    { text: 'Nginx', link: '' },
-                    { text: 'Ansible', link: '' },
-                    { text: 'Prometheus', link: '' },
-                    { text: 'Kubernetes', link: '' },
-                    { text: 'Opentracing', link: '' },
-                    { text: 'Git', link: '' }
+                    { text: 'Vim', link: '/devops/vim/' },
+                    { text: 'Linux', link: '/devops/linux/' },
+                    { text: 'Docker', link: '/devops/docker/' },
+                    { text: 'Nginx', link: '/devops/nginx/' },
+                    { text: 'Ansible', link: '/devops/ansible/' },
+                    { text: 'Prometheus', link: '/devops/prometheus/' },
+                    { text: 'Kubernetes', link: '/devops/kubernetes/' },
+                    { text: 'Opentracing', link: '/devops/opentracing/' },
+                    { text: 'Git', link: '/devops/git/' }
                 ]
             },
             { 
                 text: 'Work',
                 items: [
-                    { text: 'Product', link: '/product/' },
-                    { text: 'Frontend', link: '/frontend/' },
-                    { text: 'Backend', link: '/backend/' },
-                    { text: 'Data', link: '/data/' }
+                    { text: 'Product', link: '/work/product/' },
+                    { text: 'Frontend', link: '/work/frontend/' },
+                    { text: 'Backend', link: '/work/backend/' },
+                    { text: 'Data', link: '/work/data/' }
                 ]
             },
             {
                 text: 'Recommend',
                 items: [
-                    { text: 'Paper', link: '/paper/' },
-                    { text: 'Book', link: '/book/' },
-                    { text: 'Website', link: '/website/' },
-                    { text: 'Project', link: '/project/'}
+                    { text: 'Paper', link: '/recommend/paper/' },
+                    { text: 'Book', link: '/recommend/book/' },
+                    { text: 'Website', link: '/recommend/website/' },
+                    { text: 'Project', link: '/recommend/project/'}
                 ]
             },
             { 
