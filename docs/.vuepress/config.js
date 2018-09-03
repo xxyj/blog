@@ -10,21 +10,34 @@ module.exports = {
         repoLabel: 'Discuss',
         displayAllHeaders: true,
         nav: [
-            // { text: 'Starter', link: '/starter/' },
+            { 
+                text: 'Starter',
+                items: [
+                    { text: 'Preface', link: '' },
+                    { text: 'Language', link: '' },
+                    { text: 'Algorithm', link: '' },
+                    { text: 'OO', link: '' },
+                    { text: 'SQL', link: '' },
+                    { text: 'UML', link: '' }
+                ]
+            },
             { text: 'LeetCode', link: '/leetcode/'},
             // { text: 'System', link: '/system/' },
             { 
                 text: 'DevOps',
                 items: [
                     { text: 'Vim', link: '' },
-                    { text: 'Docker', link: '' },
-                    { text: 'Nginx', link: '' },
-                    { text: 'Ansible', link: '' },
+                    { text: 'Linux', link: '' },
+                    // { text: 'Docker', link: '' },
+                    // { text: 'Nginx', link: '' },
+                    // { text: 'Ansible', link: '' },
+                    // { text: 'Prometheus', link: '' },
                     // { text: 'Kubernetes', link: '' },
-                    { text: 'Opentracing', link: '' },
+                    // { text: 'Opentracing', link: '' },
                     { text: 'Git', link: '' }
                 ]
             },
+            // { text: 'BigData', link: '' },
             // { text: 'Product', link: '/product/' },
             // { text: 'Frontend', link: '/frontend/' },
             // { text: 'Design', link: '/design/' },
