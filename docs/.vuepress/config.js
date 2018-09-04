@@ -39,9 +39,8 @@ module.exports = {
                 text: 'Work',
                 items: [
                     { text: 'Product Manager', link: '/work/product/' },
-                    // { text: 'Frontend Engineer', link: '/work/frontend/' },
-                    // { text: 'Backend Engineer', link: '/work/backend/' },
-                    // { text: 'Data Engineer', link: '/work/data/' }
+                    { text: 'Frontend Engineer', link: '/work/frontend/' },
+                    { text: 'Backend Engineer', link: '/work/backend/' },
                 ]
             },
             // {
