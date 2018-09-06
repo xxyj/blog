@@ -33,8 +33,8 @@ module.exports = {
                 text: 'Work',
                 items: [
                     { text: 'Product Manager', link: '/work/product/' },
-                    { text: 'Frontend Engineer', link: '/work/frontend/' },
-                    { text: 'Backend Engineer', link: '/work/backend/' },
+                    // { text: 'Frontend Engineer', link: '/work/frontend/' },
+                    // { text: 'Backend Engineer', link: '/work/backend/' },
                 ]
             },
             {
@@ -48,7 +48,7 @@ module.exports = {
                 text: 'Others',
                 items: [
                     { text: 'LeetCode', link: '/others/leetcode/' },
-                    // { text: 'My Work', link: '/others/production/' }
+                    { text: 'My Work', link: '/others/mywork/' }
                 ]
             },
             { text: 'Blog', link: '/detail/' },
