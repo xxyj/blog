@@ -21,20 +21,14 @@ module.exports = {
                     { text: 'UML', link: '/starter/uml/' }
                 ]
             },
-            // { 
-            //     text: 'DevOps',
-            //     items: [
-            //         { text: 'Vim', link: '/devops/vim/' },
-            //         { text: 'Linux', link: '/devops/linux/' },
-            //         { text: 'Docker', link: '/devops/docker/' },
-            //         { text: 'Nginx', link: '/devops/nginx/' },
-            //         { text: 'Ansible', link: '/devops/ansible/' },
-            //         { text: 'Prometheus', link: '/devops/prometheus/' },
-            //         { text: 'Kubernetes', link: '/devops/kubernetes/' },
-            //         { text: 'Opentracing', link: '/devops/opentracing/' },
-            //         { text: 'Git', link: '/devops/git/' }
-            //     ]
-            // },
+            { 
+                text: 'DevOps',
+                items: [
+                    { text: 'Docker', link: '/devops/docker/' },
+                    { text: 'Nginx', link: '/devops/nginx/' },
+                    { text: 'Git', link: '/devops/git/' }
+                ]
+            },
             { 
                 text: 'Work',
                 items: [
@@ -43,20 +37,18 @@ module.exports = {
                     { text: 'Backend Engineer', link: '/work/backend/' },
                 ]
             },
-            // {
-            //     text: 'Recommend',
-            //     items: [
-            //         { text: 'Paper', link: '/recommend/paper/' },
-            //         { text: 'Book', link: '/recommend/book/' },
-            //         { text: 'Website', link: '/recommend/website/' },
-            //         { text: 'Project', link: '/recommend/project/'}
-            //     ]
-            // },
+            {
+                text: 'Recommend',
+                items: [
+                    { text: 'Book', link: '/recommend/book/' },
+                    { text: 'Project', link: '/recommend/project/'}
+                ]
+            },
             { 
                 text: 'Others',
                 items: [
                     { text: 'LeetCode', link: '/others/leetcode/' },
-                    { text: 'My Work', link: '/others/production/' }
+                    // { text: 'My Work', link: '/others/production/' }
                 ]
             },
             { text: 'Blog', link: '/detail/' },
