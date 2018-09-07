@@ -18,7 +18,8 @@ module.exports = {
                     { text: 'Algorithm', link: '/starter/algorithm/' },
                     { text: 'OO', link: '/starter/oo/' },
                     { text: 'SQL', link: '/starter/sql/' },
-                    { text: 'UML', link: '/starter/uml/' }
+                    { text: 'UML', link: '/starter/uml/' },
+                    { text: 'Animation', link: '/starter/animation/' }
                 ]
             },
             { 
