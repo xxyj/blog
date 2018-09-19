@@ -9,6 +9,6 @@ features:
 - title: Everything is permitted
   details: Everything is recognized and allowed by the universe
 - title: Meng is justice
-  details: かわいい(～￣▽￣)～
+  details: かわいい (～￣▽￣)～
 footer: Copyright © 2018-present
 ---
