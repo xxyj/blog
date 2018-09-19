@@ -23,6 +23,7 @@ module.exports = {
             '/': {
                 selectText: 'Languages',
                 label: 'English',
+                lastUpdated: 'Last Update Time',
                 nav: [
                     { 
                         text: 'Starter',
@@ -56,6 +57,7 @@ module.exports = {
             '/zh/': {
                 selectText: 'Languages',
                 label: '简体中文',
+                lastUpdated: '上次更新时间',
                 nav: [
                     { 
                         text: 'Starter',
@@ -98,7 +100,6 @@ module.exports = {
             }
         },
         sidebar: 'auto',
-        lastUpdated: '上次更新时间'
     },
     ga: 'UA-125028289-1',
     markdown: {
