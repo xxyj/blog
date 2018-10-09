@@ -80,11 +80,11 @@ module.exports = {
                         ]
                     },
                     { 
-                        text: 'Work',
+                        text: 'Analytics',
                         items: [
-                            { text: 'Product Manager', link: '/zh/work/product/' },
-                            { text: 'Frontend Engineer', link: '/zh/work/frontend/' },
-                            { text: 'Backend Engineer', link: '/zh/work/backend/' },
+                            { text: 'Vue', link: '/zh/analytics/vue/' },
+                            { text: 'Spring', link: '/zh/analytics/spring/' },
+                            { text: 'Netty', link: '/zh/analytics/netty/' },
                         ]
                     },
                     { 
