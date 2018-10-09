@@ -3,7 +3,7 @@ home: true
 heroImage: /headicon.jpeg
 features:
 - title: Nothing is True
-  details: Everything is information and data. Should not be bound by worldly things, nor should it be too much controlled by old ideas
+  details: Everything is information and data. 
 - title: Everything is permitted
   details: Everything is recognized and allowed by the universe
 - title: Meng is justice
